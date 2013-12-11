@@ -11,6 +11,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	int a = 0;
 	int b = 2;
 	cout<<a+b<<endl;
+	cout<<"Hello World"<<endl;
 	getchar();
 	return 0;
 }
